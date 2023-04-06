@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="hangman" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/hangman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../hangman" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/hangman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../hangman" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=gnu++14" />
+			<Add option="-fexceptions" />
+			<Add directory="SDL2_image-2.0.5/i686-w64-mingw32/include/SDL2" />
+			<Add directory="SDL2_ttf-2.0.15/i686-w64-mingw32/include/SDL2" />
+			<Add directory="SDL2-2.0.12/i686-w64-mingw32/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf" />
+			<Add directory="SDL2-2.0.12/i686-w64-mingw32/lib" />
+			<Add directory="SDL2_ttf-2.0.15/i686-w64-mingw32/lib" />
+			<Add directory="SDL2_image-2.0.5/i686-w64-mingw32/lib" />
+		</Linker>
+		<ExtraCommands>
+			<Add after='cmd /c copy &quot;$(PROJECT_DIR)*.dll&quot; &quot;$(TARGET_OUTPUT_DIR)&quot;' />
+			<Add after='cmd /c copy &quot;$(PROJECT_DIR)*.ttf&quot; &quot;$(TARGET_OUTPUT_DIR)&quot;' />
+			<Add after='cmd /c copy &quot;$(PROJECT_DIR)img\*.png&quot; &quot;$(TARGET_OUTPUT_DIR)img\&quot;' />
+			<Add after='cmd /c copy &quot;$(PROJECT_DIR)words\*.txt&quot; &quot;$(TARGET_OUTPUT_DIR)words\&quot;' />
+			<Mode after="always" />
+		</ExtraCommands>
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="MySDL.cpp" />
+		<Unit filename="MySDL.h" />
+		<Unit filename="VeraMoBd.ttf" />
+		<Unit filename="img/free0.png" />
+		<Unit filename="img/free1.png" />
+		<Unit filename="img/free2.png" />
+		<Unit filename="img/free3.png" />
+		<Unit filename="img/hang0.png" />
+		<Unit filename="img/hang1.png" />
+		<Unit filename="img/hang2.png" />
+		<Unit filename="img/hang3.png" />
+		<Unit filename="img/hang4.png" />
+		<Unit filename="img/hang5.png" />
+		<Unit filename="img/hang6.png" />
+		<Unit filename="img/hang7.png" />
+		<Unit filename="img/hanged0.png" />
+		<Unit filename="img/hanged1.png" />
+		<Unit filename="img/hanged2.png" />
+		<Unit filename="img/hanged3.png" />
+		<Unit filename="img/main.png" />
+		<Unit filename="main.cpp" />
+		<Unit filename="painter.cpp" />
+		<Unit filename="painter.h" />
+		<Unit filename="utility.cpp" />
+		<Unit filename="utility.h" />
+		<Unit filename="words/all.txt" />
+		<Unit filename="words/animals.txt" />
+		<Unit filename="words/countries.txt" />
+		<Unit filename="words/dictionary.txt" />
+		<Unit filename="words/feeling.txt" />
+		<Unit filename="words/fruits.txt" />
+		<Unit filename="words/jobs.txt" />
+		<Unit filename="words/plants.txt" />
+		<Unit filename="words/sports.txt" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,112 @@
+Office worker
+Computer programmer
+Veterinarian
+Street vendor
+Factory worker
+Miner
+Teacher
+Gas station attendant
+Speaker
+Delivery man
+Pharmacist
+Receptionist
+Politician
+Tour guide
+Entrepreneur
+Ballet dancer
+Astronaut
+Judge
+Customs officer
+Lawyer
+Cashier
+Taxi driver
+Plumber
+Musician
+Chef
+Baker
+Artist
+Actor
+Actress
+Bartender
+Hairdresser
+Bishop
+Optician
+Florist
+Tailor
+Seamstress
+Writer
+Author
+Caretaker
+Bus driver
+Accountant
+Bodyguard
+Judge
+Forensic scientist
+Lawyer
+Security officer
+Police
+Detective
+Software developer
+Database administrator
+Accountant
+Economist
+Businessman
+Marketing director
+Director
+Manager
+Receptionist
+Doctor
+Dentist
+Nurse
+Biologist
+Scientist
+Chemist
+Physicist
+Bricklayer
+Electrician
+Mechanic
+Architect
+Cashier
+Tailor
+Barber
+Butcher
+Personal assistant
+Project manager
+Cook
+Chef
+Tourist guide
+Waitress
+Air traffic controller
+Flight attendant
+Actor
+Actress
+Artist
+Author
+Musician
+Photographer
+Composer
+Dancer
+Director
+Singer
+Fashion designer
+Illustrator
+Poet
+Playwright
+Lecturer
+Translator
+Priest
+Sailor
+Soldier
+Engineer
+Flight attendant
+Pilot
+Politician
+Model
+Editor
+Journalist
+Writer
+Designer
+Smuggler
+Thief
+
+

@@ -1,0 +1,89 @@
+Aerobics
+Football
+Archery
+Athletics
+Badminton
+Baseball
+Basketball
+Beach volleyball
+Bowls
+Boxing
+Canoeing
+Climbing
+Cricket
+Cycling
+Darts
+Diving
+Fishing
+Go karting
+Golf
+Gymnastics
+Handball
+Hiking
+Hockey
+Horse racing
+Horse riding
+Hunting
+Ice hockey
+Ice skating
+Inline skating
+Jogging
+Judo
+Karate
+Kick boxing
+Lacrosse
+Martial arts
+Motor racing
+Mountaineering
+Netball
+Pool
+Rowing
+Rugby
+Running
+Sailing
+Scuba diving
+Shooting
+Skateboarding
+Skiing
+Snowboarding
+Squash
+Surfing
+Swimming
+Table tennis
+Tennis
+Volleyball
+Walking
+Water polo
+Water skiing
+Weightlifting
+Windsurfing
+Wrestling
+Yoga
+Skateboard
+Gym
+Racetrack
+Stand
+Swimming pool
+Corner kick
+Crossbar
+Fan
+Foul
+Free kick
+Goal
+Goalkeeper
+Net
+Offside
+Pass
+Penalty
+Player
+Referee
+Defeat
+Fixture
+League table
+Loser
+Match
+Opponent
+Result
+Score
+Victory
+Winner

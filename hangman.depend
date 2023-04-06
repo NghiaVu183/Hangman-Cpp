@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1652070136 source:d:\hangman-master\game.cpp
+	"Game.h"
+	<ctime>
+	<tr1/unordered_map>
+	"SkickSDL.h"
+	"utility.h"
+
+1610500135 d:\hangman-master\game.h
+	<ctime>
+	<string>
+	"SkickSDL.h"
+
+1610500135 d:\hangman-master\skicksdl.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"painter.h"
+
+1610500135 d:\hangman-master\painter.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1610500135 d:\hangman-master\utility.h
+	<string>
+
+1652067978 source:d:\hangman-master\main.cpp
+	"Game.h"
+	"SkickSDL.h"
+
+1610500135 source:d:\hangman-master\painter.cpp
+	"painter.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1610500135 source:d:\hangman-master\skicksdl.cpp
+	"SkickSDL.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"painter.h"
+
+1610500135 source:d:\hangman-master\utility.cpp
+	<algorithm>
+	<fstream>
+	<iostream>
+	<vector>
+
+1652928219 source:d:\project hangman\main.cpp
+	"Game.h"
+	"MySDL.h"
+
+1652900397 d:\project hangman\game.h
+	<ctime>
+	<string>
+	"MySDL.h"
+
+1610500135 d:\project hangman\skicksdl.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"painter.h"
+
+1652112886 d:\project hangman\painter.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1652256172 source:d:\project hangman\painter.cpp
+	"painter.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1652115435 source:d:\project hangman\skicksdl.cpp
+	"SkickSDL.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"painter.h"
+
+1652827540 source:d:\project hangman\utility.cpp
+	<algorithm>
+	<fstream>
+	<iostream>
+	<vector>
+
+1652930377 source:d:\project hangman\game.cpp
+	"Game.h"
+	<ctime>
+	<tr1/unordered_map>
+	"MySDL.h"
+	"utility.h"
+
+1652112886 d:\project hangman\utility.h
+	<string>
+
+1652809120 source:d:\project hangman\mysdl.cpp
+	"MySDL.h"
+	"painter.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1652809165 d:\project hangman\mysdl.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	"painter.h"
+
+1652112886 d:\project hangman\draw.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
